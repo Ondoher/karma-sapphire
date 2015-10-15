@@ -1,0 +1,33 @@
+{
+  "name": "karma-sapphire",
+  "version": "0.0.2",
+  "description": "Karma framework for sapphire-express",
+  "main": "lib/index.js",
+  "dependencies": {
+    "mootools": "^1.5.2",
+    "node-uuid": "^1.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondoher/karma-sapphire.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-framework"
+  ],
+  "author": {
+    "name": "Glenn Anderson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ondoher/karma-sapphire/issues"
+  },
+  "homepage": "https://github.com/Ondoher/karma-sapphire",
+  "gitHead": "7136fe8d23c30f075109dc8799ff3029cd8d3359",
+  "readme": "ERROR: No README data found!",
+  "_id": "karma-sapphire@0.0.2",
+  "scripts": {},
+  "_shasum": "f0e6d6f69e3ea7db6da504d64df4743858b88f3b",
+  "_from": "karma-sapphire@*"
+}
