@@ -1,6 +1,6 @@
 {
   "name": "karma-sapphire",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "Karma framework for sapphire-express",
   "main": "lib/index.js",
   "dependencies": {
@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/Ondoher/karma-sapphire",
   "gitHead": "7136fe8d23c30f075109dc8799ff3029cd8d3359",
-  "readme": "ERROR: No README data found!",
-  "_id": "karma-sapphire@0.0.2",
+  "_id": "karma-sapphire@0.0.5",
   "scripts": {},
-  "_shasum": "f0e6d6f69e3ea7db6da504d64df4743858b88f3b",
-  "_from": "karma-sapphire@*"
+  "_shasum": "9e475012482679dc896ec8115300ac5046908065",
+  "_from": "karma-sapphire@*",
+  "readme": "# karma-sapphire\nSapphire framework for karma\n\n",
+  "readmeFilename": "README.md"
 }
