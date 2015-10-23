@@ -1,6 +1,6 @@
 {
   "name": "karma-sapphire",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Karma framework for sapphire-express",
   "main": "lib/index.js",
   "dependencies": {
